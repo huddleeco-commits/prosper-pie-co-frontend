@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "primary": "#c41e3a",
+    "secondary": "#f4a460",
+    "accent": "#fca5a5",
+    "text": "#1a1a2e",
+    "background": "#ffffff"
+  },
+  "preset": null
+}
